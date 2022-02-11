@@ -40,7 +40,7 @@ battles.
 In the process of accomplishing these requirements, each team member should
 - Create a Visualforce page and associated custom Apex code (either through a custom controller
 or controller extension).
-As a whole, the team must have
+As a whole, the Pokemon Project must have
 - At least one Visualforce page that makes use of the <apex:param> standard component.
 - At least one Visualforce page that overrides a standard button or action.
 Future Implementations
