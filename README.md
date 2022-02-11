@@ -25,17 +25,17 @@ Requirements
 - Each team should create a Pokedex pulling information from the PokeAPI that will be surfaced
 via Visualforce.
 - Battling
-o A user should be able to select a team of six Pokémon from the Pokedex to do battle.
-o They should then be able to battle against either a team pulled from another org or a
+A user should be able to select a team of six Pokémon from the Pokedex to do battle.
+They should then be able to battle against either a team pulled from another org or a
 randomly generated team of six.
-o There should be some form of competition between the local team and the retrieved
+There should be some form of competition between the local team and the retrieved
 team (although the parameters of this and the determination of the winner are up to
 the team’s implementation/preferences).
 - Pokémon Teams
-o Each development team must expose a RESTful webservice containing one or more
+Each development team must expose a RESTful webservice containing one or more
 prebuilt Pokémon teams (along with the relevant information for all included Pokémon)
 that other orgs can consume.
-o A user should be able to save Pokémon teams that they have created for use in later
+A user should be able to save Pokémon teams that they have created for use in later
 battles.
 In the process of accomplishing these requirements, each team member should
 - Create a Visualforce page and associated custom Apex code (either through a custom controller
